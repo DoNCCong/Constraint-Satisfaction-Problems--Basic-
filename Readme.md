@@ -352,7 +352,7 @@ print(graph.get_labels())
 ```
 
 
-
+![png](./Image/Map.PNG)
 
 ```python
 graph.draw_networkx()
