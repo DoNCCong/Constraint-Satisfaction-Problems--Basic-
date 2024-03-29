@@ -364,7 +364,7 @@ graph.draw_networkx()
 
 
     
-![png](output_16_0.png)
+![png](./Image/output_16_0.png)
     
 
 
@@ -376,113 +376,109 @@ for i in sl:
 
 
     
-![png](output_17_0.png)
+![png](./Image/output_17_0.png)
     
 
 
 
     
-![png](output_17_1.png)
+![png](./Image/output_17_1.png)
     
 
 
 
     
-![png](output_17_2.png)
+![png](./Image/output_17_2.png)
     
 
 
 
     
-![png](output_17_3.png)
+![png](./Image/output_17_3.png)
     
 
 
 
     
-![png](output_17_4.png)
+![png](./Image/output_17_4.png)
     
 
 
 
     
-![png](output_17_5.png)
+![png](./Image/output_17_5.png)
     
 
 
 
     
-![png](output_17_6.png)
+![png](./Image/output_17_6.png)
     
 
 
 
     
-![png](output_17_7.png)
+![png](./Image/output_17_7.png)
     
 
 
 
     
-![png](output_17_8.png)
+![png](./Image/output_17_8.png)
     
 
 
 
     
-![png](output_17_9.png)
+![png](./Image/output_17_9.png)
     
 
 
 
     
-![png](output_17_10.png)
+![png](./Image/output_17_10.png)
     
 
 
 
     
-![png](output_17_11.png)
+![png](./Image/output_17_11.png)
     
 
 
 
     
-![png](output_17_12.png)
+![png](./Image/output_17_12.png)
     
 
 
 
     
-![png](output_17_13.png)
+![png](./Image/output_17_13.png)
     
 
 
 
     
-![png](output_17_14.png)
+![png](./Image/output_17_14.png)
     
 
 
 
     
-![png](output_17_15.png)
+![png](./Image/output_17_15.png)
     
 
 
 
     
-![png](output_17_16.png)
+![png](./Image/output_17_16.png)
     
 
 
 
     
-![png](output_17_17.png)
+![png](./Image/output_17_17.png)
     
 
 
-
-```python
-
-```
