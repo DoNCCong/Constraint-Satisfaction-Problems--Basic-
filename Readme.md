@@ -55,7 +55,7 @@ nx.draw_networkx_edge_labels(g, pos, font_size=18, edge_labels=labels, ax=ax)
 
 
     
-![png](output_2_1.png)
+![png](./Image/output_2_1.png)
     
 
 
